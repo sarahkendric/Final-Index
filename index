@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Core Studio Interaction Spring 2020</title>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+
+    <style>
+      #section1 {
+        background-color: pink
+        width: 33vw;
+      }
+
+    </style>
+
+
+<body>
+  <div id="section1"></div>
+  <div id="section2"></div>
+  <div id="section3"></div>
+      
+</body>
